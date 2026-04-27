@@ -1,2 +1,4 @@
 No.  Task Name                     Status
 ---------------------------------------------
+1    wake up                       Completed
+2    reading                       Pending
