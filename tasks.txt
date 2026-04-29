@@ -1,4 +1,3 @@
-No.  Task Name                     Status
----------------------------------------------
-1    wake up                       Completed
-2    reading                       Pending
+No.  Task Name                     Deadline            Status
+-----------------------------------------------------------------
+1    wwwe                          2026-04-29 23:11    PENDING
